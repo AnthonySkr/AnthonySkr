@@ -16,3 +16,10 @@
 
 # 📊 GitHub Stats:
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthonySkr&theme=tokyo-night&custom_title=Anthony's%20Contribution%20Graph&bg_color=0d0e12&color=1c81ce&line=079ae4&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106818339" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106818339&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @AnthonySkr" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106818339&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
